@@ -14,6 +14,7 @@
 		F455A6AA277D1F5300BF8B6E /* NotificationApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F455A6A8277D1F5300BF8B6E /* NotificationApp.xcdatamodeld */; };
 		F455A6AC277D1F5800BF8B6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F455A6AB277D1F5800BF8B6E /* Assets.xcassets */; };
 		F455A6AF277D1F5800BF8B6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F455A6AD277D1F5800BF8B6E /* LaunchScreen.storyboard */; };
+		F455A6B7277F6D8700BF8B6E /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F455A6B6277F6D8600BF8B6E /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F455A6AB277D1F5800BF8B6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F455A6AE277D1F5800BF8B6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F455A6B0277D1F5800BF8B6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F455A6B6277F6D8600BF8B6E /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				F455A69F277D1F5300BF8B6E /* AppDelegate.swift */,
 				F455A6A1277D1F5300BF8B6E /* SceneDelegate.swift */,
 				F455A6A3277D1F5300BF8B6E /* ViewController.swift */,
+				F455A6B6277F6D8600BF8B6E /* TableViewController.swift */,
 				F455A6A5277D1F5300BF8B6E /* Main.storyboard */,
 				F455A6AB277D1F5800BF8B6E /* Assets.xcassets */,
 				F455A6AD277D1F5800BF8B6E /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				F455A6AA277D1F5300BF8B6E /* NotificationApp.xcdatamodeld in Sources */,
 				F455A6A4277D1F5300BF8B6E /* ViewController.swift in Sources */,
 				F455A6A0277D1F5300BF8B6E /* AppDelegate.swift in Sources */,
+				F455A6B7277F6D8700BF8B6E /* TableViewController.swift in Sources */,
 				F455A6A2277D1F5300BF8B6E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
